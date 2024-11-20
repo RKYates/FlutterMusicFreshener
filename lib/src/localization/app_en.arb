@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_music_freshener",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
